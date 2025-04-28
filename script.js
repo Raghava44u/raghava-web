@@ -14,7 +14,7 @@ function showSignin() {
 
 // Firebase Configuration (yours)
 const firebaseConfig = {
-  apiKey: "AIzaSyAKOo2kcb0607PCC-0eTYPUBCPy4891Cs8",
+  apiKey: "",
   authDomain: "signinsignup-8e44b.firebaseapp.com",
   projectId: "signinsignup-8e44b",
   storageBucket: "signinsignup-8e44b.appspot.com",
