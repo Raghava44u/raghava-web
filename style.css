@@ -230,7 +230,7 @@ nav{
     display: flex;
     justify-content: right;
     align-content: center;
-    min-height: 80vh;
+    min-height: 90vh;
     width: 50%;
 }
 .image{
